@@ -1,0 +1,19 @@
+.RoomContainer{
+    width: 10%;
+    height:60%;
+    background-color: white;
+    border-radius: 4px;
+    margin: 0 0 0 5px;
+}
+.RoomContainer h3{
+    color: grey;
+    text-align: center;
+    width: 100%;
+    padding: 10px 0;
+}
+.roomUser{
+    width: 100%;
+    border-right: 5px solid green;
+    margin: 3px 0;
+    text-align: center;
+}
